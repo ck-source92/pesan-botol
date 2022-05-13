@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    colors default Primary-->
+    <color name="blue_200">#00296B</color>
+    <color name="blue_500">#003F88</color>
+    <color name="blue_700">#00509D</color>
+
+    <!--    colors custom-->
+    <color name="blue_900">#1A76BC</color>
+    <color name="blue_1100">#1E91D0</color>
+
+    <!--    colors default Secondary-->
+    <color name="yellow_200">#FFB700</color>
+    <color name="yellow_500">#FFC300</color>
+
+    <!--  colors custom  -->
+    <color name="yellow_700">#FFD000</color>
+    <color name="yellow_900">#FFDD00</color>
+    <color name="yellow_1100">#FFEA00</color>
+
+    <!--colors default -->
+    <color name="black">#25262B</color>
+
+    <!--    colors custom   -->
+    <color name="grey_37F">#66737F</color>
+    <color name="grey_1CC">#B8C1CC</color>
+    <color name="white_5F6">#F3F5F6</color>
+
+    <!--colors default -->
+    <color name="white">#FFFFFFFF</color>
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/PesanBotol/app/src/main/res/drawable/background_outline_auth.xml" value="0.1355" />
+        <entry key="..\:/AndroidProject/PesanBotol/app/src/main/res/font-v26/custom_font.xml" value="0.25076923076923074" />
+        <entry key="..\:/AndroidProject/PesanBotol/app/src/main/res/font/custom_font.xml" value="0.20641620937104263" />
+        <entry key="..\:/AndroidProject/PesanBotol/app/src/main/res/font/poppins.xml" value="0.20641620937104263" />
+        <entry key="..\:/AndroidProject/PesanBotol/app/src/main/res/font/poppins_bold.xml" value="0.20641620937104263" />
+        <entry key="..\:/AndroidProject/PesanBotol/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/AndroidProject/PesanBotol/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
